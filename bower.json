@@ -16,7 +16,7 @@
     "package.json"
   ],
   "devDependencies": {
-    "purescript-console": "^5.0.0",
-    "purescript-newtype": "^4.0.0"
+    "purescript-console": "https://github.com/working-group-purescript-es/purescript-console.git#es-modules",
+    "purescript-newtype": "https://github.com/working-group-purescript-es/purescript-newtype.git#es-modules"
   }
 }
